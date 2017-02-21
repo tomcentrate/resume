@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Tommy Lee",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "tommy.t.lee@gmail.com",
+    "phone": "(407) 541-7718",
+    "website": "http://tommylee.co",
+    "summary": "Software engineer with over 4 years of experience with backend web development. Experienced with developing the full stack web applications on Linux environments.",
+    "location": {
+      "city": "Winter Park",
+      "countryCode": "US",
+      "region": "Florida"
+    }
+  },
+  "work": [
+    {
+      "company": "Fresh Lines",
+      "position": "Software Engineer",
+      "website": "http://frshlns.com",
+      "startDate": "2014-11-02",
+      "summary": "Built web and mobile applications in a small (2-4) consultancy.",
+      "highlights": [
+        "Primary engineer for Child Care services client. Developed reports and integrations to connect SQL Server client data warehouse with intranet tools.",
+        "Finished a calculator app built in Objective C.",
+        "Migrated large Ruby on Rails project from Rails 3.2 to Rails 4.2",
+        "Developed migration strategies for legacy PHP projects to be compatible with PHP 5.6.x",
+        "Built a copyright and brand search tool using Angular 1.5.x."
+      ]
+    },
+    {
+        "company":"RGI Marketing Group, Inc.",
+        "position": "Web Developer / IT",
+        "website": "http://www.rgimarketing.com/",
+        "startDate": "2012-09-10",
+        "endDate": "2014-11-01",
+        "summary": "Built Web applications with PHP MVC Frameworks like CodeIgniter and FuelPHP. Built mobile applications using PhoneGap. Created and modified sites built on Wordpress.",
+        "highlights": [
+          "Integrated time-tracking software with in-house project management system. Saved 2 hours of time-tracking each pay period.",
+          "Migrated dedicated server infrastructure to a virtualized KVM environments on Centos and Debian servers. "
+        ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "SPS at UCF",
+      "position": "NetAdmin",
+      "startDate": "2012-12-01",
+      "endDate": "2013-12-01",
+        "summary": "Rebuilt website and setup forms and pages for Regional Event held at UCF. Occasional content management.",
+      "highlights": [
+        "Nominated for SPS Award for Outstanding Student"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Central Florida",
+      "area": "Computational Physics",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2013-12-31",
+      "gpa": "3.3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Web Development",
+        "keywords": [
+            "Ruby on Rails",
+            "Ruby",
+            "MySQL",
+            "PHP"
+        ]
+    },
+    {
+        "name": "Linux Admin",
+        "keywords": [
+          "Apache",
+          "Nginx"
+        ]
+    },
+    {
+        "name": "Frontend Web Development",
+        "level": "Proficient",
+        "keywords": [
+            "Javascript",
+            "AngularJS",
+            "React",
+            "CSS"
+      ]
+    },
+    {
+        "name":"Mobile Development",
+        "level": "Apprentice",
+        "keywords": [
+            "iOS",
+            "Swift",
+            "Objective C"
+        ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+     {
+      "language": "Chinese (Cantonese)",
+      "fluency": "Basic"
+    }
+  ]
+}
