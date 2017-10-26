@@ -3,7 +3,7 @@
     "name": "Tommy Lee",
     "label": "Software Engineer",
     "picture": "",
-    "email": "tommy.t.lee@gmail.com",
+    "email": "tommy@tommylee.co",
     "phone": "(407) 541-7718",
     "website": "http://tommylee.co",
     "summary": "Software engineer with over 4 years of experience with backend web development. Experienced with developing the full stack web applications on Linux environments.",
@@ -11,7 +11,14 @@
       "city": "Winter Park",
       "countryCode": "US",
       "region": "Florida"
-    }
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "tomcentrate",
+        "url": "https://github.com/tomcentrate"
+      }
+    ]
   },
   "work": [
     {
@@ -19,13 +26,14 @@
       "position": "Software Engineer",
       "website": "http://frshlns.com",
       "startDate": "2014-11-02",
-      "summary": "Built web and mobile applications in a small (2-4) consultancy.",
+      "summary": "Built web and mobile applications in a small (2-4) consultancy. Worked with multiple clients with frequently changing priorities.",
       "highlights": [
-        "Primary engineer for Child Care services client. Developed reports and integrations to connect SQL Server client data warehouse with intranet tools.",
+        "Mentored junior developers, and guided through onboard process.",
+        "Main engineer for Ruby on Rails codebase of a Child Care services client. Utilized  Developed reports in T-SQL and Business Objects, and created integrations to connect SQL Server client data warehouse with intranet tools.",
+        "Developed migration strategies for legacy PHP 5 projects to be compatible with PHP 7",
         "Finished a calculator app built in Objective C.",
         "Migrated large Ruby on Rails project from Rails 3.2 to Rails 4.2",
-        "Developed migration strategies for legacy PHP projects to be compatible with PHP 5.6.x",
-        "Built a copyright and brand search tool using Angular 1.5.x."
+        "Built a copyright and brand search tool using Angular 1.5. Consumed third party APIs and built an aggregate search engine."
       ]
     },
     {
@@ -43,6 +51,27 @@
   ],
   "volunteer": [
     {
+      "organization": "Orlando Cook and Code",
+      "position": "Co-Organizer",
+      "startDate": "2017-10-04",
+      "summary": "Started a recreational weekend meetup focused on Cooking together and Coding side projects."
+    },
+    {
+      "organization": "Open Code Orlando",
+      "startDate": "2017-02-04",
+      "highlights": [
+        "Helped developers improve their portfolio through one-on-one critiques."
+      ]
+    },
+    {
+      "organization": "Code for Orlando",
+      "startDate": "2016-06-01",
+      "endDate": "2016-09-01",
+      "highlights": [
+        "Contributed to the One Person, One Tree iOS app."
+      ]
+    },
+    {
       "organization": "SPS at UCF",
       "position": "NetAdmin",
       "startDate": "2012-12-01",
@@ -59,8 +88,7 @@
       "area": "Computational Physics",
       "studyType": "Bachelor",
       "startDate": "2010-09-01",
-      "endDate": "2013-12-31",
-      "gpa": "3.3"
+      "endDate": "2013-12-31"
     }
   ],
   "skills": [
@@ -98,16 +126,6 @@
             "Swift",
             "Objective C"
         ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    },
-     {
-      "language": "Chinese (Cantonese)",
-      "fluency": "Basic"
     }
   ]
 }
