@@ -59,17 +59,13 @@
     {
       "organization": "Open Code Orlando",
       "startDate": "2017-02-04",
-      "highlights": [
-        "Helped developers improve their portfolio through one-on-one critiques."
-      ]
+      "summary":"At a Careers Workshop: Helped developers improve their portfolio through one-on-one critiques."
     },
     {
       "organization": "Code for Orlando",
       "startDate": "2016-06-01",
       "endDate": "2016-09-01",
-      "highlights": [
-        "Contributed to the One Person, One Tree iOS app."
-      ]
+      "summary": "Contributed to the One Person, One Tree iOS app."
     },
     {
       "organization": "SPS at UCF",
@@ -93,30 +89,30 @@
   ],
   "skills": [
     {
-      "name": "Backend Web Development",
+      "name": "Languages",
         "keywords": [
             "Ruby on Rails",
             "Ruby",
-            "MySQL",
-            "PHP"
-        ]
-    },
-    {
-        "name": "Linux Admin",
-        "keywords": [
-          "Apache",
-          "Nginx"
-        ]
-    },
-    {
-        "name": "Frontend Web Development",
-        "level": "Proficient",
-        "keywords": [
             "Javascript",
-            "AngularJS",
-            "React",
-            "CSS"
-      ]
+            "MySQL",
+            "PHP",
+            "CSS",
+            "HTML",
+            "Bash",
+            "T-SQL",
+            "Git"
+        ]
+    },
+    {
+        "name": "Ops",
+        "keywords": [
+          "Ubuntu Linux",
+          "Amazon AWS",
+          "NGINX",
+          "Capistrano",
+          "Apache",
+          "Nagios"
+        ]
     },
     {
         "name":"Mobile Development",
