@@ -1,0 +1,21 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "This resume was built using [JSON Resume](https://jsonresume.org/getting-started/). Please follow the installation steps listed in there.",
+  "main": "index.js",
+  "scripts": {
+    "build": "resume export public/index.html --theme short",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal:tomcentrate/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-short": "^0.1.7",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
+    "resume-cli": "^1.1.2"
+  }
+}

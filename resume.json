@@ -6,7 +6,7 @@
     "email": "tommy@tommylee.co",
     "phone": "(407) 541-7718",
     "website": "http://tommylee.co",
-    "summary": "Software engineer with over 4 years of experience with backend web development. Experienced with developing the full stack web applications on Linux environments.",
+    "summary": "Software engineer with over 6 years of experience with backend web development. Experienced with developing the full stack web applications on Linux environments.",
     "location": {
       "city": "Winter Park",
       "countryCode": "US",
@@ -22,17 +22,30 @@
   },
   "work": [
     {
+      "company": "Entertainment Benefits Group",
+      "position": "Web Application Developer",
+      "website": "http://entertainmentbenefits.com",
+      "startDate": "2014-12-01",
+      "summary": "",
+      "highlights": [
+          "Developed web applications and features in eCommerce, primarily using PHP and Javascript",
+          "",
+          "Built tools and automated processes to help transition team from svn to git. Started converting Virtual Machine based environments to Docker containers."
+      ]
+    },
+    {
       "company": "Fresh Lines",
       "position": "Software Engineer",
       "website": "http://frshlns.com",
       "startDate": "2014-11-02",
+      "endDate": "2017-12-01",
       "summary": "Built web and mobile applications in a small (2-4) consultancy. Worked with multiple clients with frequently changing priorities.",
       "highlights": [
-        "Mentored junior developers, and guided through onboard process.",
+        "Mentored junior developers, and guided through onboard process. Performed code reviews",
         "Main engineer for Ruby on Rails codebase of a Child Care services client. Utilized  Developed reports in T-SQL and Business Objects, and created integrations to connect SQL Server client data warehouse with intranet tools.",
         "Developed migration strategies for legacy PHP 5 projects to be compatible with PHP 7",
-        "Finished a calculator app built in Objective C.",
-        "Migrated large Ruby on Rails project from Rails 3.2 to Rails 4.2",
+        "Finished a fishing line calculator app built in Objective C.",
+        "Migrated Ruby on Rails projects from Rails 3.2 to Rails 4.2",
         "Built a copyright and brand search tool using Angular 1.5. Consumed third party APIs and built an aggregate search engine."
       ]
     },
@@ -91,7 +104,6 @@
     {
       "name": "Languages",
         "keywords": [
-            "Ruby on Rails",
             "Ruby",
             "Javascript",
             "MySQL",
@@ -104,13 +116,23 @@
         ]
     },
     {
-        "name": "Ops",
+      "name": "Frameworks",
+      "keywords": [
+            "Ruby on Rails",
+            "Rspec",
+            "ReactJS",
+            "Cypress.io",
+            "Laravel"
+      ]
+    },
+    {
+        "name": "DevOps",
         "keywords": [
-          "Ubuntu Linux",
           "Amazon AWS",
-          "NGINX",
+          "Jenkins",
+          "Docker",
+          "Ansible",
           "Capistrano",
-          "Apache",
           "Nagios"
         ]
     },
